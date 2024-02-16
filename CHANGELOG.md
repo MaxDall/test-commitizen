@@ -4,6 +4,20 @@
 
 - This should break
 
+## [1.2.0](https://github.com/MaxDall/test-commitizen/compare/v1.1.1...v1.2.0) (2024-02-16)
+
+
+### Features
+
+* Add new feature ([5e4cebb](https://github.com/MaxDall/test-commitizen/commit/5e4cebbd9240e1e0c9b64996a95451a605d3b517))
+* This should break ([0440a9a](https://github.com/MaxDall/test-commitizen/commit/0440a9a233612782eb830097f1a614a8b596fd08))
+
+
+### Bug Fixes
+
+* **README.md:** test if new PR ([e9230a7](https://github.com/MaxDall/test-commitizen/commit/e9230a7c9b60b030a93a6f586b5d4c44c3d039b1))
+* **release-please.yml:** added pat to workflow ([3965eae](https://github.com/MaxDall/test-commitizen/commit/3965eae90291785c8acb40cb3d9001c6c3b53d47))
+
 ## 1.2.0 (2024-02-16)
 
 ### Feat
