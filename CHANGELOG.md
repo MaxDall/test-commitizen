@@ -1,3 +1,16 @@
+## [1.3.0](https://github.com/MaxDall/test-commitizen/compare/v1.2.0...v1.3.0) (2024-02-16)
+
+
+### Features
+
+* **README.md:** this should hopefully not overwrite the PR description ([42e24f4](https://github.com/MaxDall/test-commitizen/commit/42e24f405163c7bcb0f5ff0e8bbdd6e4ac401545))
+* This should increase minor version on release PR ([cc3c7e7](https://github.com/MaxDall/test-commitizen/commit/cc3c7e71a8a3dfade30993f7cf0fb02504d77850))
+
+
+### Bug Fixes
+
+* test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
+
 ## [1.2.0](https://github.com/MaxDall/test-commitizen/compare/v1.1.1...v1.2.0) (2024-02-16)
 
 
