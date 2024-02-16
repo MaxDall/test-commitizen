@@ -9,3 +9,5 @@ This is a test for merge commit
 Let's see how this is handled
 
 Let's test releases
+
+This should increment alpha version
