@@ -1,3 +1,27 @@
+## 1.1.1 (2024-02-16)
+
+### Fix
+
+- local versioning
+
+## 1.1.0 (2024-02-16)
+
+### Perf
+
+- test alpha incr
+
+## 1.1.0a0 (2024-02-16)
+
+### Feat
+
+- **README.md**: test release candidate
+
+## 1.0.2 (2024-02-16)
+
+### Refactor
+
+- **pyproject.toml**: change versioning schema
+
 ## 1.0.1 (2024-02-16)
 
 ### Fix
