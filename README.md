@@ -23,3 +23,5 @@ Does this actually opens a new version everytime?
 This should increase release version on PR
 
 Check if I can update the release msg
+
+Let's hope the PR description stays in place
