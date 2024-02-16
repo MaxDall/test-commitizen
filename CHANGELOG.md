@@ -1,3 +1,13 @@
+## 1.0.0 (2024-02-16)
+
+### BREAKING CHANGE
+
+- major release
+
+### Feat
+
+- **pyproject.toml**: test major release
+
 ## 0.5.0 (2024-02-16)
 
 ### Fix
