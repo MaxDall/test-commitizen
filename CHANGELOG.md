@@ -1,9 +1,3 @@
-## 2.0.0 (2024-02-16)
-
-### Feat
-
-- This should break
-
 ## [1.2.0](https://github.com/MaxDall/test-commitizen/compare/v1.1.1...v1.2.0) (2024-02-16)
 
 
