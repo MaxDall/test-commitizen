@@ -1,27 +1,3 @@
 # test-commitizen
 
-We want to test if we can also do merge commits
-
-Some Things to Test
-
-This is a test for merge commit
-
-Let's see how this is handled
-
-Let's test releases
-
-This should increment alpha version
-
-Test local version
-
-Let's see how features are handled
-
-And how about features with breaking changes?
-
-Does this actually opens a new version everytime?
-
-This should increase release version on PR
-
-Check if I can update the release msg
-
-Let's hope the PR description stays in place
+Hopefully this does bump up the version
