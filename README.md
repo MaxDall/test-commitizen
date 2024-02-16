@@ -17,3 +17,5 @@ Test local version
 Let's see how features are handled
 
 And how about features with breaking changes?
+
+Does this actually opens a new version everytime?
