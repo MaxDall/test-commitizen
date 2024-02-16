@@ -1,3 +1,9 @@
+## 1.1.0a0 (2024-02-16)
+
+### Feat
+
+- **README.md**: test release candidate
+
 ## 1.0.2 (2024-02-16)
 
 ### Refactor
