@@ -11,6 +11,13 @@
 
 * test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
 
+## [1.3.1](https://github.com/MaxDall/test-commitizen/compare/v1.3.0...v1.3.1) (2024-02-16)
+
+
+### Bug Fixes
+
+* **README.md:** this should bump up the version specified in `pyproject.toml` ([2cad790](https://github.com/MaxDall/test-commitizen/commit/2cad790916d0d9e93cb686518bd860badee980de))
+
 ## [1.2.0](https://github.com/MaxDall/test-commitizen/compare/v1.1.1...v1.2.0) (2024-02-16)
 
 
