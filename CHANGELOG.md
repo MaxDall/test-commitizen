@@ -11,6 +11,13 @@
 
 * test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
 
+## [1.3.2](https://github.com/MaxDall/test-commitizen/compare/v1.3.1...v1.3.2) (2024-02-16)
+
+
+### Bug Fixes
+
+* release description ([a3ca54f](https://github.com/MaxDall/test-commitizen/commit/a3ca54f899e15f8d8f454281765f382363292d6c))
+
 ## [1.3.1](https://github.com/MaxDall/test-commitizen/compare/v1.3.0...v1.3.1) (2024-02-16)
 
 
