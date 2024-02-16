@@ -1,3 +1,9 @@
+## 0.5.0 (2024-02-16)
+
+### Fix
+
+- **.gitignore/README.md**: Test breaking changes
+
 ## 0.4.0 (2024-02-16)
 
 ### Feat
