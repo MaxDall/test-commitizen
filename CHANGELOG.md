@@ -11,6 +11,13 @@
 
 * test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
 
+## [1.4.0](https://github.com/MaxDall/test-commitizen/compare/v1.3.3...v1.4.0) (2024-02-19)
+
+
+### Features
+
+* **README.md:** This is a feature ([0318dd0](https://github.com/MaxDall/test-commitizen/commit/0318dd0d3c17d07cc7fffd69e72d6d2d045644a9))
+
 ## [1.3.3](https://github.com/MaxDall/test-commitizen/compare/v1.3.2...v1.3.3) (2024-02-16)
 
 
