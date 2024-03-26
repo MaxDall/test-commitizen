@@ -11,14 +11,6 @@ authors = [
 description = "Test repo for commitizen using pre commit"
 readme = "README.md"
 requires-python = ">=3.8"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-    "Intended Audience :: Developers",
-    "Intended Audience :: Education",
-    "Intended Audience :: Science/Research"
-]
 
 [project.optional-dependencies]
 dev = [
