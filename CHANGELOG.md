@@ -11,6 +11,13 @@
 
 * test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
 
+## [1.5.3](https://github.com/MaxDall/test-commitizen/compare/v1.5.2...v1.5.3) (2024-03-26)
+
+
+### Bug Fixes
+
+* pin python version in workflow file ([26c9fd7](https://github.com/MaxDall/test-commitizen/commit/26c9fd76154b7a8a16f8d9af622980dba37f8779))
+
 ## [1.5.2](https://github.com/MaxDall/test-commitizen/compare/v1.5.1...v1.5.2) (2024-03-26)
 
 
