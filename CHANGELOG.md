@@ -11,6 +11,13 @@
 
 * test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
 
+## [1.5.4](https://github.com/MaxDall/test-commitizen/compare/v1.5.3...v1.5.4) (2024-03-26)
+
+
+### Bug Fixes
+
+* add 10s sleep to wait for testpypi and removed redunant information from pyproject.toml ([d95cff7](https://github.com/MaxDall/test-commitizen/commit/d95cff7c291a4fc47e75f2969011c477e719ee47))
+
 ## [1.5.3](https://github.com/MaxDall/test-commitizen/compare/v1.5.2...v1.5.3) (2024-03-26)
 
 
