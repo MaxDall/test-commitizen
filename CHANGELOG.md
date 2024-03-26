@@ -11,6 +11,26 @@
 
 * test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
 
+## [1.5.0](https://github.com/MaxDall/test-commitizen/compare/v1.4.0...v1.5.0) (2024-03-26)
+
+
+### Features
+
+* added workflows to automate linting/testing and releasing ([38fddc9](https://github.com/MaxDall/test-commitizen/commit/38fddc9586d0b899daddf27f43924f9cc04d3764))
+
+
+### Bug Fixes
+
+* add dummy python file ([820e91b](https://github.com/MaxDall/test-commitizen/commit/820e91b436429997d893bde7763bea8ccae3d101))
+* add dummy test and fix dummy py style ([6ebb123](https://github.com/MaxDall/test-commitizen/commit/6ebb123fda5558de431ef93fec6e5142ec9434ea))
+* added packages required for workflows to pyproject.toml ([4ad0604](https://github.com/MaxDall/test-commitizen/commit/4ad06041f45f12882b2b4f26a448d6db128a972b))
+* fix release wf ([dbd148a](https://github.com/MaxDall/test-commitizen/commit/dbd148a718ababe209f2c5195ce1784c4c489dd0))
+
+
+### Documentation
+
+* **README.md:** added something ([464c4a6](https://github.com/MaxDall/test-commitizen/commit/464c4a6433de4e55c1f9b3c3dd04ada465f3c55a))
+
 ## [1.4.0](https://github.com/MaxDall/test-commitizen/compare/v1.3.3...v1.4.0) (2024-02-19)
 
 
