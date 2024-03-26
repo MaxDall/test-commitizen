@@ -11,6 +11,13 @@
 
 * test ([a6ec01b](https://github.com/MaxDall/test-commitizen/commit/a6ec01b69d0ca6dbf69da08ba3e1acb5094330cc))
 
+## [1.5.1](https://github.com/MaxDall/test-commitizen/compare/v1.5.0...v1.5.1) (2024-03-26)
+
+
+### Bug Fixes
+
+* fix release wf artifact name ([46c1f84](https://github.com/MaxDall/test-commitizen/commit/46c1f84bdb7f492a3b9f9fdba1d13eab3db68f42))
+
 ## [1.5.0](https://github.com/MaxDall/test-commitizen/compare/v1.4.0...v1.5.0) (2024-03-26)
 
 
